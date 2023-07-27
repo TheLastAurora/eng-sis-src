@@ -1,2 +1,2 @@
-# eng-sis-src
-Principais arquivos de implementação da tarefa de implementação do trabalho final de Engenharia de Sistemas.
+# eng-sistemas
+Principais arquivos de implementação da tarefa 4 do trabalho final de Engenharia de Sistemas.
