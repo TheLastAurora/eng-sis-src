@@ -51,6 +51,7 @@ def save_wav(filename, samples, sample_rate):
 
 sample_rate = 44100
 output_folder = "samples"
+os.chdir("../")
 os.makedirs(output_folder, exist_ok=True)
 
 sample1 = gen_constant_noise(1e-2, sample_rate, 0.1)
