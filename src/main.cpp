@@ -1,3 +1,10 @@
+/*
+
+Sistemas de Cancelamento Ativo de Ruídos Acústicos - Módulo de Inversão de Ondas Sonoras
+
+*/
+
+
 #include <iostream>
 #include <fstream>
 #include <vector>
