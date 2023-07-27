@@ -23,5 +23,5 @@ end=$(date +%s%N)
 
 execution_time=$((end - start))
 average=$((execution_time / n / 1000000))
-
+rm output.wav
 echo -e "\033[0;33;91mAverage execution time for $n cycles:\033[0m \033[0;31m$average ms\033[0m"
